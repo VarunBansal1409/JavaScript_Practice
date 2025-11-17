@@ -1,0 +1,12 @@
+[{
+    "name" : "ramu" ,
+    "id"   : 1 ,
+    "boolean" :  true 
+},
+{
+    "null" : null ,
+    "object" : {
+                    "designation" : "developer"
+               },
+    "arr" : [10 , 20 , 30]
+}]

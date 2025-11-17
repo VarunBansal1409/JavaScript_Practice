@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "sunil" ,
+        "id"   : 1,
+        "designation" : "developer" ,
+        "image" : "https://cdn.pixabay.com/photo/2023/01/31/15/47/building-7758389_1280.jpg"
+    },
+    {
+        "name" : "venkat",
+        "id"   : 2 ,
+        "designation" : "devops" ,
+        "image" : "https://cdn.pixabay.com/photo/2020/12/15/01/43/street-5832394_1280.jpg"
+    },
+    {
+        "name" : "ramu",
+         "id" :  3 ,
+         "designation" : "tester" ,
+         "image" : "https://cdn.pixabay.com/photo/2024/08/30/10/14/cat-9009011_1280.jpg"
+    },
+    {
+        "name" : "teja",
+         "id" :  4 ,
+         "designation" : "manager" ,
+         "image" : "https://cdn.pixabay.com/photo/2024/08/30/10/14/cat-9009011_1280.jpg"
+    },
+    {
+        "name" : "ravi",
+         "id" :  5 ,
+         "designation" : "devops" ,
+         "image" : "https://cdn.pixabay.com/photo/2024/08/30/10/14/cat-9009011_1280.jpg"
+    }
+]
