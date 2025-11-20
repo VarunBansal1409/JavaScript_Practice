@@ -1,0 +1,19 @@
+.navbar{
+    background-color: red !important;
+}
+
+.card img{
+    height: 200px;
+    width: 300px;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.carousel-item img{
+    height: 500px;
+    object-fit: cover;
+}
